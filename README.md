@@ -1,9 +1,7 @@
 # CONTACT-APP-NODEJS
 
-npm init to validation
-and then we can use npm
-
-to simple project use npm init -y to default
+npm init to validation.
+Then we can use npm, for simple project we can use npm init -y to default
 
 <body>
   <h1>📒 Contact App (Node.js CLI)</h1>
