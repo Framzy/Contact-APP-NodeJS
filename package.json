@@ -1,0 +1,24 @@
+{
+  "name": "contact-app-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "npm init to validation and then we can use npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Framzy/Contact-APP-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Framzy/Contact-APP-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Framzy/Contact-APP-NodeJS#readme",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
