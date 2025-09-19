@@ -1,4 +1,4 @@
-import { ask, saveContact } from "./contacts";
+import { ask, saveContact } from "./contacts.mjs";
 const main = async () => {
   const nama = await ask("Masukan nama anda = ");
   const email = await ask("Masukan email anda = ");
